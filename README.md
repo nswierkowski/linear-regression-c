@@ -67,12 +67,12 @@ linear_regression_c/
 make
 ```
 
-### **2.Run all tests **
+### **2. Run all tests**
 ```bash
 make run_tests
 ```
 
-### **2.Run main project **
+### **3. Run main project**
 ```bash
 make run_project CSV=path/to/your.csv
 ```
